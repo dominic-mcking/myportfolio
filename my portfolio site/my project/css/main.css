@@ -1,0 +1,23 @@
+
+h1 {
+    
+   padding: 50px;
+}
+
+.top {
+    background-color: rgb(10, 10, 10);
+    height:100px;
+    color: #839AA8;
+    font-family: 'Courier New', Courier, monospace, serif;
+    text-align: center;
+}
+
+a:hover {
+  color: blue;
+}
+
+.bottom-container {
+  background-color: rgb(8, 8, 8);
+  text-align: center;
+}
+
